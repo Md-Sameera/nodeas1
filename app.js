@@ -6,4 +6,4 @@ const server=http.createServer(function(req , res){
     res.write(JSON.stringify(20));
     res.end();
 })
-server.listen(4000);
+server.listen(40000);
